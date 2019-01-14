@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "port": "COM14",
+    "sketch": "Tank_Tim_V3.ino"
+}
